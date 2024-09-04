@@ -1,3 +1,0 @@
-[submodule "backend/rlcard"]
-	path = backend/rlcard
-	url = https://github.com/andrewbchen05/custom_rlcard.git
